@@ -1,0 +1,3839 @@
+{
+  "cityMetrics": {
+    "Barcelona": {
+      "affordability": 39,
+      "accessibility": 20,
+      "adoption": 25.1,
+      "efficiency": 61.5,
+      "variety": 77.8
+    },
+    "Beijing": {
+      "affordability": 92.7,
+      "accessibility": 20.5,
+      "adoption": 21,
+      "efficiency": 96.7,
+      "variety": 88.9
+    },
+    "Berlin": {
+      "affordability": 24.4,
+      "accessibility": 47.5,
+      "adoption": 29.3,
+      "efficiency": 94,
+      "variety": 100
+    },
+    "Buenos Aires": {
+      "affordability": 97.6,
+      "accessibility": 28.9,
+      "adoption": 18,
+      "efficiency": 14.4,
+      "variety": 66.7
+    },
+    "Cairo": {
+      "affordability": 97.6,
+      "accessibility": 8.1,
+      "adoption": 20.7,
+      "efficiency": 98.3,
+      "variety": 77.8
+    },
+    "Casablanca": {
+      "affordability": 90.2,
+      "accessibility": 10.4,
+      "adoption": 19.2,
+      "efficiency": 89.3,
+      "variety": 22.2
+    },
+    "Chicago": {
+      "affordability": 46.3,
+      "accessibility": 32.5,
+      "adoption": 4.4,
+      "efficiency": 84.9,
+      "variety": 77.8
+    },
+    "Delhi": {
+      "affordability": 100,
+      "accessibility": 11.9,
+      "adoption": 16.4,
+      "efficiency": 91.1,
+      "variety": 44.4
+    },
+    "Dubai": {
+      "affordability": 75.6,
+      "accessibility": 15.5,
+      "adoption": 14.5,
+      "efficiency": 88.2,
+      "variety": 77.8
+    },
+    "Hong Kong": {
+      "affordability": 85.4,
+      "accessibility": 13.6,
+      "adoption": 23.3,
+      "efficiency": 90.8,
+      "variety": 55.6
+    },
+    "Istanbul": {
+      "affordability": 85.4,
+      "accessibility": 6.4,
+      "adoption": 15.6,
+      "efficiency": 93.2,
+      "variety": 77.8
+    },
+    "Jakarta": {
+      "affordability": 100,
+      "accessibility": 16.9,
+      "adoption": 38.4,
+      "efficiency": 63,
+      "variety": 66.7
+    },
+    "Johannesburg": {
+      "affordability": 82.9,
+      "accessibility": 1.8,
+      "adoption": 0,
+      "efficiency": 95.9,
+      "variety": 0
+    },
+    "London": {
+      "affordability": 48.8,
+      "accessibility": 23.9,
+      "adoption": 26.1,
+      "efficiency": 99,
+      "variety": 88.9
+    },
+    "Los Angeles": {
+      "affordability": 58.5,
+      "accessibility": 11.5,
+      "adoption": 29.6,
+      "efficiency": 91.5,
+      "variety": 66.7
+    },
+    "Madrid": {
+      "affordability": 63.4,
+      "accessibility": 23.8,
+      "adoption": 38.2,
+      "efficiency": 83.3,
+      "variety": 77.8
+    },
+    "Medellín": {
+      "affordability": 87.8,
+      "accessibility": 10.6,
+      "adoption": 23.1,
+      "efficiency": 72.7,
+      "variety": 44.4
+    },
+    "Melbourne": {
+      "affordability": 14.6,
+      "accessibility": 37.1,
+      "adoption": 26.8,
+      "efficiency": 22.3,
+      "variety": 66.7
+    },
+    "Mexico City": {
+      "affordability": 97.6,
+      "accessibility": 21.7,
+      "adoption": 15.7,
+      "efficiency": 86.2,
+      "variety": 55.6
+    },
+    "Montreal": {
+      "affordability": 39,
+      "accessibility": 7.5,
+      "adoption": 18.4,
+      "efficiency": 96.9,
+      "variety": 77.8
+    },
+    "New York": {
+      "affordability": 34.1,
+      "accessibility": 26.1,
+      "adoption": 6.1,
+      "efficiency": 89,
+      "variety": 88.9
+    },
+    "Paris": {
+      "affordability": 43.9,
+      "accessibility": 21.8,
+      "adoption": 36.6,
+      "efficiency": 59.5,
+      "variety": 100
+    },
+    "Rio de Janeiro": {
+      "affordability": 82.9,
+      "accessibility": 14.7,
+      "adoption": 28.2,
+      "efficiency": 91.6,
+      "variety": 77.8
+    },
+    "Santiago": {
+      "affordability": 82.9,
+      "accessibility": 27.1,
+      "adoption": 21.6,
+      "efficiency": 94.6,
+      "variety": 55.6
+    },
+    "Singapore": {
+      "affordability": 82.9,
+      "accessibility": 19.4,
+      "adoption": 21.2,
+      "efficiency": 81.6,
+      "variety": 77.8
+    },
+    "Sydney": {
+      "affordability": 48.8,
+      "accessibility": 10.2,
+      "adoption": 26.9,
+      "efficiency": 0,
+      "variety": 77.8
+    },
+    "Taipei": {
+      "affordability": 95.1,
+      "accessibility": 30.5,
+      "adoption": 51,
+      "efficiency": 71.2,
+      "variety": 88.9
+    },
+    "Toronto": {
+      "affordability": 43.9,
+      "accessibility": 39,
+      "adoption": 2,
+      "efficiency": 100,
+      "variety": 88.9
+    }
+  },
+  "cityAvgCommute": {
+    "Tokyo": {
+      "meanDistanceKm": 19.46,
+      "meanCarMin": 32.6,
+      "meanTransitMin": 78.8,
+      "meanBicycleMin": 49.2,
+      "meanWalkingMin": 49.5,
+      "source": "394_JP_Tokyo"
+    },
+    "Jakarta": {
+      "meanDistanceKm": 6.36,
+      "meanCarMin": 13.8,
+      "meanTransitMin": 32.6,
+      "meanBicycleMin": 36.2,
+      "meanWalkingMin": 46,
+      "source": "231_ID_Jakarta"
+    },
+    "Delhi": {
+      "meanDistanceKm": 21.43,
+      "meanCarMin": 35.4,
+      "meanTransitMin": 85.2,
+      "meanBicycleMin": 51.2,
+      "meanWalkingMin": 55.5,
+      "source": "346_IN_Delhi"
+    },
+    "Manila": {
+      "meanDistanceKm": 0.78,
+      "meanCarMin": 5.8,
+      "meanTransitMin": 13.9,
+      "meanBicycleMin": 7.6,
+      "meanWalkingMin": 25.6,
+      "source": "497_US_Manila"
+    },
+    "Seoul": {
+      "meanDistanceKm": 14.95,
+      "meanCarMin": 26.1,
+      "meanTransitMin": 63.1,
+      "meanBicycleMin": 48.7,
+      "meanWalkingMin": 47.1,
+      "source": "1103_KR_Seoul"
+    },
+    "Mumbai": {
+      "meanDistanceKm": 14.96,
+      "meanCarMin": 26.1,
+      "meanTransitMin": 63,
+      "meanBicycleMin": 48.1,
+      "meanWalkingMin": 46.5,
+      "source": "1062_IN_Mumbai"
+    },
+    "Shanghai": {
+      "meanDistanceKm": 19.7,
+      "meanCarMin": 32.9,
+      "meanTransitMin": 79.3,
+      "meanBicycleMin": 50.9,
+      "meanWalkingMin": 50.2,
+      "source": "396_CN_Shanghai"
+    },
+    "Mexico City": {
+      "meanDistanceKm": 16.78,
+      "meanCarMin": 28.8,
+      "meanTransitMin": 69.4,
+      "meanBicycleMin": 49.3,
+      "meanWalkingMin": 49.6,
+      "source": "564_MX_Mexico_City"
+    },
+    "Guangzhou": {
+      "meanDistanceKm": 16.04,
+      "meanCarMin": 27.7,
+      "meanTransitMin": 67,
+      "meanBicycleMin": 49,
+      "meanWalkingMin": 48.2,
+      "source": "393_CN_Guangzhou"
+    },
+    "Cairo": {
+      "meanDistanceKm": 43.71,
+      "meanCarMin": 67.4,
+      "meanTransitMin": 164.2,
+      "meanBicycleMin": 49.9,
+      "meanWalkingMin": 57.8,
+      "source": "GHSL-260_EGY_Cairo"
+    },
+    "Beijing": {
+      "meanDistanceKm": 35.37,
+      "meanCarMin": 55.4,
+      "meanTransitMin": 134.6,
+      "meanBicycleMin": 51.1,
+      "meanWalkingMin": 43,
+      "source": "342_CN_Beijing"
+    },
+    "New York": {
+      "meanDistanceKm": 19.7,
+      "meanCarMin": 32.9,
+      "meanTransitMin": 79.6,
+      "meanBicycleMin": 48.8,
+      "meanWalkingMin": 50.6,
+      "source": "380_US_New_York"
+    },
+    "Moscow": {
+      "meanDistanceKm": 1.62,
+      "meanCarMin": 7,
+      "meanTransitMin": 16.9,
+      "meanBicycleMin": 12,
+      "meanWalkingMin": 38.3,
+      "source": "246_US_Moscow"
+    },
+    "Bangkok": {
+      "meanDistanceKm": 25.77,
+      "meanCarMin": 41.6,
+      "meanTransitMin": 100.8,
+      "meanBicycleMin": 51.4,
+      "meanWalkingMin": 56.9,
+      "source": "889_TH_Bangkok"
+    },
+    "Dhaka": {
+      "meanDistanceKm": 12.39,
+      "meanCarMin": 22.5,
+      "meanTransitMin": 54.3,
+      "meanBicycleMin": 46.8,
+      "meanWalkingMin": 47.4,
+      "source": "GHSL-21_BGD_Dhaka"
+    },
+    "Buenos Aires": {
+      "meanDistanceKm": 0.61,
+      "meanCarMin": 4.2,
+      "meanTransitMin": 6.2,
+      "meanBicycleMin": 5.8,
+      "meanWalkingMin": 19.6,
+      "source": "5_BR_Buenos_Aires"
+    },
+    "Lagos": {
+      "meanDistanceKm": 32.95,
+      "meanCarMin": 51.9,
+      "meanTransitMin": 126.1,
+      "meanBicycleMin": 51.8,
+      "meanWalkingMin": 58,
+      "source": "GHSL-584_NGA_Lagos"
+    },
+    "Istanbul": {
+      "meanDistanceKm": 27.05,
+      "meanCarMin": 43.5,
+      "meanTransitMin": 105.7,
+      "meanBicycleMin": 49.7,
+      "meanWalkingMin": 54.2,
+      "source": "915_TR_Istanbul"
+    },
+    "Karachi": {
+      "meanDistanceKm": 16.64,
+      "meanCarMin": 28.5,
+      "meanTransitMin": 68.7,
+      "meanBicycleMin": 49.6,
+      "meanWalkingMin": 50.9,
+      "source": "652_PK_Karachi"
+    },
+    "Kinshasa": {
+      "meanDistanceKm": 17.84,
+      "meanCarMin": 30.3,
+      "meanTransitMin": 72.9,
+      "meanBicycleMin": 49.3,
+      "meanWalkingMin": 50.6,
+      "source": "800_CD_Kinshasa"
+    },
+    "Tehran": {
+      "meanDistanceKm": 32.83,
+      "meanCarMin": 51.8,
+      "meanTransitMin": 125.5,
+      "meanBicycleMin": 51,
+      "meanWalkingMin": 58.5,
+      "source": "GHSL-510_IRN_Tehran"
+    },
+    "Los Angeles": {
+      "meanDistanceKm": 23.45,
+      "meanCarMin": 38.3,
+      "meanTransitMin": 92.9,
+      "meanBicycleMin": 48.8,
+      "meanWalkingMin": 56.4,
+      "source": "144_US_Los_Angeles"
+    },
+    "Rio de Janeiro": {
+      "meanDistanceKm": 22.97,
+      "meanCarMin": 37.6,
+      "meanTransitMin": 90.9,
+      "meanBicycleMin": 50.1,
+      "meanWalkingMin": 55.8,
+      "source": "761_BR_Rio_de_Janeiro"
+    },
+    "Lahore": {
+      "meanDistanceKm": 9.58,
+      "meanCarMin": 18.4,
+      "meanTransitMin": 44.4,
+      "meanBicycleMin": 44.3,
+      "meanWalkingMin": 45.2,
+      "source": "649_PK_Lahore"
+    },
+    "London": {
+      "meanDistanceKm": 43.85,
+      "meanCarMin": 67.6,
+      "meanTransitMin": 164,
+      "meanBicycleMin": 50.2,
+      "meanWalkingMin": 55.2,
+      "source": "GHSL-707_GBR_London"
+    },
+    "Paris": {
+      "meanDistanceKm": 6.14,
+      "meanCarMin": 13.5,
+      "meanTransitMin": 32.6,
+      "meanBicycleMin": 34.4,
+      "meanWalkingMin": 45.8,
+      "source": "269_FR_Paris"
+    },
+    "Nagoya": {
+      "meanDistanceKm": 44.97,
+      "meanCarMin": 69.2,
+      "meanTransitMin": 168.1,
+      "meanBicycleMin": 49.1,
+      "meanWalkingMin": 54.5,
+      "source": "GHSL-542_JPN_Nagoya"
+    },
+    "Lima": {
+      "meanDistanceKm": 27.52,
+      "meanCarMin": 44.1,
+      "meanTransitMin": 107,
+      "meanBicycleMin": 50.3,
+      "meanWalkingMin": 56.2,
+      "source": "GHSL-623_PER_Lima"
+    },
+    "Luanda": {
+      "meanDistanceKm": 24.56,
+      "meanCarMin": 39.9,
+      "meanTransitMin": 96.4,
+      "meanBicycleMin": 51.5,
+      "meanWalkingMin": 60,
+      "source": "GHSL-4_AGO_Luanda"
+    },
+    "Kuala Lumpur": {
+      "meanDistanceKm": 11.04,
+      "meanCarMin": 20.5,
+      "meanTransitMin": 49.5,
+      "meanBicycleMin": 45.6,
+      "meanWalkingMin": 48.6,
+      "source": "572_MY_Kuala_Lumpur"
+    },
+    "Chicago": {
+      "meanDistanceKm": 16.18,
+      "meanCarMin": 27.9,
+      "meanTransitMin": 67.6,
+      "meanBicycleMin": 47.1,
+      "meanWalkingMin": 49.4,
+      "source": "367_US_Chicago"
+    },
+    "Hanoi": {
+      "meanDistanceKm": 7,
+      "meanCarMin": 14.7,
+      "meanTransitMin": 35.5,
+      "meanBicycleMin": 37.8,
+      "meanWalkingMin": 45.9,
+      "source": "1018_VN_Hanoi"
+    },
+    "Bogotá": {
+      "meanDistanceKm": 23.62,
+      "meanCarMin": 38.5,
+      "meanTransitMin": 93,
+      "meanBicycleMin": 49.4,
+      "meanWalkingMin": 59.4,
+      "source": "GHSL-246_COL_Bogota"
+    },
+    "Dar es Salaam": {
+      "meanDistanceKm": 20.49,
+      "meanCarMin": 34.1,
+      "meanTransitMin": 82.5,
+      "meanBicycleMin": 49.1,
+      "meanWalkingMin": 53.4,
+      "source": "923_TZ_Dar_es_Salaam"
+    },
+    "Hong Kong": {
+      "meanDistanceKm": 21.39,
+      "meanCarMin": 35.4,
+      "meanTransitMin": 85.2,
+      "meanBicycleMin": 50.1,
+      "meanWalkingMin": 53.8,
+      "source": "1035_HK_Hong_Kong"
+    },
+    "Santiago": {
+      "meanDistanceKm": 27.65,
+      "meanCarMin": 44.3,
+      "meanTransitMin": 106.9,
+      "meanBicycleMin": 51.8,
+      "meanWalkingMin": 56.9,
+      "source": "GHSL-58_CHL_Santiago"
+    },
+    "Riyadh": {
+      "meanDistanceKm": 36.34,
+      "meanCarMin": 56.8,
+      "meanTransitMin": 137.1,
+      "meanBicycleMin": 49.3,
+      "meanWalkingMin": 54.1,
+      "source": "756_SA_Riyadh"
+    },
+    "Miami": {
+      "meanDistanceKm": 0.94,
+      "meanCarMin": 6,
+      "meanTransitMin": 14.3,
+      "meanBicycleMin": 8.4,
+      "meanWalkingMin": 28.5,
+      "source": "348_US_Miami"
+    },
+    "Baghdad": {
+      "meanDistanceKm": 21.27,
+      "meanCarMin": 35.2,
+      "meanTransitMin": 85.1,
+      "meanBicycleMin": 49.1,
+      "meanWalkingMin": 52.5,
+      "source": "1075_IQ_Baghdad"
+    },
+    "Khartoum": {
+      "meanDistanceKm": 8.45,
+      "meanCarMin": 16.8,
+      "meanTransitMin": 40.7,
+      "meanBicycleMin": 40.3,
+      "meanWalkingMin": 45.9,
+      "source": "242_SD_Khartoum"
+    },
+    "Madrid": {
+      "meanDistanceKm": 14.67,
+      "meanCarMin": 25.7,
+      "meanTransitMin": 62.2,
+      "meanBicycleMin": 47.9,
+      "meanWalkingMin": 47.1,
+      "source": "430_ES_Madrid"
+    },
+    "Dallas": {
+      "meanDistanceKm": 2.18,
+      "meanCarMin": 7.8,
+      "meanTransitMin": 18.8,
+      "meanBicycleMin": 14.9,
+      "meanWalkingMin": 41.5,
+      "source": "358_US_Dallas"
+    },
+    "Philadelphia": {
+      "meanDistanceKm": 12.35,
+      "meanCarMin": 22.4,
+      "meanTransitMin": 54.2,
+      "meanBicycleMin": 44.9,
+      "meanWalkingMin": 46.7,
+      "source": "280_US_Philadelphia"
+    },
+    "Nairobi": {
+      "meanDistanceKm": 16.32,
+      "meanCarMin": 28.1,
+      "meanTransitMin": 67.8,
+      "meanBicycleMin": 47.5,
+      "meanWalkingMin": 51.5,
+      "source": "1098_KE_Nairobi"
+    },
+    "Houston": {
+      "meanDistanceKm": 0.98,
+      "meanCarMin": 6.1,
+      "meanTransitMin": 14.6,
+      "meanBicycleMin": 8.7,
+      "meanWalkingMin": 29.3,
+      "source": "363_US_Houston"
+    },
+    "Atlanta": {
+      "meanDistanceKm": 3.59,
+      "meanCarMin": 9.8,
+      "meanTransitMin": 23.7,
+      "meanBicycleMin": 22.3,
+      "meanWalkingMin": 43.8,
+      "source": "355_US_Atlanta"
+    },
+    "Guadalajara": {
+      "meanDistanceKm": 23.62,
+      "meanCarMin": 38.5,
+      "meanTransitMin": 93.1,
+      "meanBicycleMin": 50.6,
+      "meanWalkingMin": 55.7,
+      "source": "GHSL-558_MEX_Guadalajara"
+    },
+    "Yangon": {
+      "meanDistanceKm": 20.1,
+      "meanCarMin": 33.5,
+      "meanTransitMin": 80.9,
+      "meanBicycleMin": 49.3,
+      "meanWalkingMin": 52.9,
+      "source": "GHSL-575_MMR_Yangon"
+    },
+    "Toronto": {
+      "meanDistanceKm": 48.38,
+      "meanCarMin": 74,
+      "meanTransitMin": 179.6,
+      "meanBicycleMin": 49.1,
+      "meanWalkingMin": 51.2,
+      "source": "GHSL-54_CAN_Toronto"
+    },
+    "Saint Petersburg": {
+      "meanDistanceKm": 7.5,
+      "meanCarMin": 15.4,
+      "meanTransitMin": 37.1,
+      "meanBicycleMin": 39.6,
+      "meanWalkingMin": 45.3,
+      "source": "186_RU_Saint_Petersburg"
+    },
+    "Singapore": {
+      "meanDistanceKm": 13.51,
+      "meanCarMin": 24.1,
+      "meanTransitMin": 58.1,
+      "meanBicycleMin": 47.5,
+      "meanWalkingMin": 47.1,
+      "source": "GHSL-654_SGP_Singapore"
+    },
+    "Belo Horizonte": {
+      "meanDistanceKm": 7.67,
+      "meanCarMin": 15.7,
+      "meanTransitMin": 37.9,
+      "meanBicycleMin": 41.2,
+      "meanWalkingMin": 46.9,
+      "source": "303_BR_Belo_Horizonte"
+    },
+    "Abidjan": {
+      "meanDistanceKm": 12.98,
+      "meanCarMin": 23.3,
+      "meanTransitMin": 56.2,
+      "meanBicycleMin": 47.1,
+      "meanWalkingMin": 48.4,
+      "source": "822_CI_Abidjan"
+    },
+    "Alexandria": {
+      "meanDistanceKm": 22.68,
+      "meanCarMin": 37.2,
+      "meanTransitMin": 89.9,
+      "meanBicycleMin": 47.8,
+      "meanWalkingMin": 57.9,
+      "source": "GHSL-257_EGY_Alexandria"
+    },
+    "Sydney": {
+      "meanDistanceKm": 1.03,
+      "meanCarMin": 6.2,
+      "meanTransitMin": 14.8,
+      "meanBicycleMin": 8.9,
+      "meanWalkingMin": 30.2,
+      "source": "254_AU_Sydney"
+    },
+    "Barcelona": {
+      "meanDistanceKm": 6.53,
+      "meanCarMin": 14.1,
+      "meanTransitMin": 33.9,
+      "meanBicycleMin": 36.9,
+      "meanWalkingMin": 45.4,
+      "source": "766_ES_Barcelona"
+    },
+    "Boston": {
+      "meanDistanceKm": 28.88,
+      "meanCarMin": 46.1,
+      "meanTransitMin": 111.4,
+      "meanBicycleMin": 50,
+      "meanWalkingMin": 56.6,
+      "source": "GHSL-745_USA_Boston"
+    },
+    "Melbourne": {
+      "meanDistanceKm": 2.12,
+      "meanCarMin": 7.7,
+      "meanTransitMin": 18.5,
+      "meanBicycleMin": 14.6,
+      "meanWalkingMin": 39,
+      "source": "786_AU_Melbourne"
+    },
+    "Johannesburg": {
+      "meanDistanceKm": 30.91,
+      "meanCarMin": 49,
+      "meanTransitMin": 118.3,
+      "meanBicycleMin": 52.4,
+      "meanWalkingMin": 58.6,
+      "source": "GHSL-656_ZAF_Johannesburg"
+    },
+    "Casablanca": {
+      "meanDistanceKm": 20.14,
+      "meanCarMin": 33.6,
+      "meanTransitMin": 81.2,
+      "meanBicycleMin": 48.4,
+      "meanWalkingMin": 54.5,
+      "source": "GHSL-570_MAR_Casablanca"
+    },
+    "Kabul": {
+      "meanDistanceKm": 10.82,
+      "meanCarMin": 20.2,
+      "meanTransitMin": 48.8,
+      "meanBicycleMin": 44.4,
+      "meanWalkingMin": 47.7,
+      "source": "526_AF_Kabul"
+    },
+    "Phoenix": {
+      "meanDistanceKm": 0.98,
+      "meanCarMin": 6.1,
+      "meanTransitMin": 14.6,
+      "meanBicycleMin": 8.6,
+      "meanWalkingMin": 29.3,
+      "source": "378_US_Phoenix"
+    },
+    "Amman": {
+      "meanDistanceKm": 14.96,
+      "meanCarMin": 26.1,
+      "meanTransitMin": 63.1,
+      "meanBicycleMin": 48.1,
+      "meanWalkingMin": 49,
+      "source": "1093_JO_Amman"
+    },
+    "Jeddah": {
+      "meanDistanceKm": 26.4,
+      "meanCarMin": 42.6,
+      "meanTransitMin": 103.3,
+      "meanBicycleMin": 49.5,
+      "meanWalkingMin": 57.2,
+      "source": "758_SA_Jeddah"
+    },
+    "Kano": {
+      "meanDistanceKm": 6.62,
+      "meanCarMin": 14.2,
+      "meanTransitMin": 34.1,
+      "meanBicycleMin": 37.2,
+      "meanWalkingMin": 45.8,
+      "source": "521_NG_Kano"
+    },
+    "Seattle": {
+      "meanDistanceKm": 10.06,
+      "meanCarMin": 19.1,
+      "meanTransitMin": 45.5,
+      "meanBicycleMin": 43.6,
+      "meanWalkingMin": 45.9,
+      "source": "984_US_Seattle"
+    },
+    "Berlin": {
+      "meanDistanceKm": 26.25,
+      "meanCarMin": 42.3,
+      "meanTransitMin": 101.9,
+      "meanBicycleMin": 50.6,
+      "meanWalkingMin": 55.8,
+      "source": "GHSL-289_DEU_Berlin"
+    },
+    "San Francisco": {
+      "meanDistanceKm": 23.24,
+      "meanCarMin": 38,
+      "meanTransitMin": 93,
+      "meanBicycleMin": 46.6,
+      "meanWalkingMin": 55.6,
+      "source": "36_US_San_Francisco"
+    },
+    "Montreal": {
+      "meanDistanceKm": 33.64,
+      "meanCarMin": 52.9,
+      "meanTransitMin": 127.8,
+      "meanBicycleMin": 49.5,
+      "meanWalkingMin": 59.4,
+      "source": "GHSL-56_CAN_Montreal"
+    },
+    "Detroit": {
+      "meanDistanceKm": 0.88,
+      "meanCarMin": 5.9,
+      "meanTransitMin": 14.3,
+      "meanBicycleMin": 8.1,
+      "meanWalkingMin": 27.5,
+      "source": "271_US_Detroit"
+    },
+    "Busan": {
+      "meanDistanceKm": 21.76,
+      "meanCarMin": 35.9,
+      "meanTransitMin": 86.4,
+      "meanBicycleMin": 49.3,
+      "meanWalkingMin": 57.5,
+      "source": "GHSL-666_KOR_Busan"
+    },
+    "Algiers": {
+      "meanDistanceKm": 8.98,
+      "meanCarMin": 17.6,
+      "meanTransitMin": 42.4,
+      "meanBicycleMin": 40.6,
+      "meanWalkingMin": 45.3,
+      "source": "917_DZ_Algiers"
+    },
+    "San Diego": {
+      "meanDistanceKm": 1.34,
+      "meanCarMin": 6.6,
+      "meanTransitMin": 15.8,
+      "meanBicycleMin": 10.5,
+      "meanWalkingMin": 35.6,
+      "source": "976_US_San_Diego"
+    },
+    "Faisalabad": {
+      "meanDistanceKm": 10.66,
+      "meanCarMin": 20,
+      "meanTransitMin": 48.3,
+      "meanBicycleMin": 45.8,
+      "meanWalkingMin": 48.7,
+      "source": "651_PK_Faisalabad"
+    },
+    "Addis Ababa": {
+      "meanDistanceKm": 12.9,
+      "meanCarMin": 23.2,
+      "meanTransitMin": 55.9,
+      "meanBicycleMin": 47.5,
+      "meanWalkingMin": 47.1,
+      "source": "939_ET_Addis_Ababa"
+    },
+    "Brasília": {
+      "meanDistanceKm": 20.22,
+      "meanCarMin": 33.7,
+      "meanTransitMin": 81.3,
+      "meanBicycleMin": 48.6,
+      "meanWalkingMin": 52.6,
+      "source": "764_BR_Brasilia"
+    },
+    "Mashhad": {
+      "meanDistanceKm": 11.08,
+      "meanCarMin": 20.6,
+      "meanTransitMin": 49.8,
+      "meanBicycleMin": 45,
+      "meanWalkingMin": 49.4,
+      "source": "1081_IR_Mashhad"
+    },
+    "Minneapolis": {
+      "meanDistanceKm": 6.95,
+      "meanCarMin": 14.7,
+      "meanTransitMin": 35.4,
+      "meanBicycleMin": 37.7,
+      "meanWalkingMin": 45.6,
+      "source": "390_US_Minneapolis"
+    },
+    "Kyiv": {
+      "meanDistanceKm": 16.85,
+      "meanCarMin": 28.9,
+      "meanTransitMin": 69.8,
+      "meanBicycleMin": 48.4,
+      "meanWalkingMin": 50.9,
+      "source": "924_UA_Kyiv"
+    },
+    "Quezon City": {
+      "meanDistanceKm": 7.23,
+      "meanCarMin": 15.1,
+      "meanTransitMin": 36.3,
+      "meanBicycleMin": 38.8,
+      "meanWalkingMin": 46.1,
+      "source": "241_PH_Quezon_City"
+    },
+    "Sanaa": {
+      "meanDistanceKm": 5.68,
+      "meanCarMin": 12.8,
+      "meanTransitMin": 31,
+      "meanBicycleMin": 32.1,
+      "meanWalkingMin": 44.3,
+      "source": "hzy-425_YEM_Sanaa"
+    },
+    "Tampa": {
+      "meanDistanceKm": 14.6,
+      "meanCarMin": 25.6,
+      "meanTransitMin": 62.3,
+      "meanBicycleMin": 44.8,
+      "meanWalkingMin": 49.4,
+      "source": "506_US_Tampa"
+    },
+    "Salvador": {
+      "meanDistanceKm": 14.45,
+      "meanCarMin": 25.4,
+      "meanTransitMin": 61.3,
+      "meanBicycleMin": 48.1,
+      "meanWalkingMin": 49.3,
+      "source": "14_BR_Salvador"
+    },
+    "Surabaya": {
+      "meanDistanceKm": 14.71,
+      "meanCarMin": 25.6,
+      "meanTransitMin": 60.2,
+      "meanBicycleMin": 49.2,
+      "meanWalkingMin": 53.9,
+      "source": "GHSL-499_IDN_Surabaya"
+    },
+    "Denver": {
+      "meanDistanceKm": 34.83,
+      "meanCarMin": 54.6,
+      "meanTransitMin": 131.9,
+      "meanBicycleMin": 48.6,
+      "meanWalkingMin": 55.4,
+      "source": "GHSL-722_USA_Denver"
+    },
+    "Bandung": {
+      "meanDistanceKm": 8.44,
+      "meanCarMin": 16.7,
+      "meanTransitMin": 39.1,
+      "meanBicycleMin": 43.1,
+      "meanWalkingMin": 48.1,
+      "source": "1057_ID_Bandung"
+    },
+    "Rome": {
+      "meanDistanceKm": 13.67,
+      "meanCarMin": 24.3,
+      "meanTransitMin": 58.7,
+      "meanBicycleMin": 47.5,
+      "meanWalkingMin": 45.8,
+      "source": "369_IT_Rome"
+    },
+    "La Paz": {
+      "meanDistanceKm": 9.54,
+      "meanCarMin": 18.4,
+      "meanTransitMin": 44.5,
+      "meanBicycleMin": 43.8,
+      "meanWalkingMin": 46.1,
+      "source": "hzy-9_BOL_La_Paz"
+    },
+    "Taichung": {
+      "meanDistanceKm": 24.03,
+      "meanCarMin": 39.1,
+      "meanTransitMin": 94.6,
+      "meanBicycleMin": 49.5,
+      "meanWalkingMin": 57.9,
+      "source": "GHSL-682_TWN_Taichung"
+    },
+    "Kaohsiung": {
+      "meanDistanceKm": 18.65,
+      "meanCarMin": 31.4,
+      "meanTransitMin": 75.8,
+      "meanBicycleMin": 49.3,
+      "meanWalkingMin": 50.5,
+      "source": "GHSL-685_TWN_Kaohsiung"
+    },
+    "Guayaquil": {
+      "meanDistanceKm": 9.86,
+      "meanCarMin": 18.8,
+      "meanTransitMin": 45.5,
+      "meanBicycleMin": 44.1,
+      "meanWalkingMin": 45.2,
+      "source": "919_EC_Guayaquil"
+    },
+    "Taipei": {
+      "meanDistanceKm": 9.01,
+      "meanCarMin": 17.6,
+      "meanTransitMin": 42.5,
+      "meanBicycleMin": 43.4,
+      "meanWalkingMin": 45.6,
+      "source": "921_TW_Taipei"
+    },
+    "Antananarivo": {
+      "meanDistanceKm": 5.27,
+      "meanCarMin": 12.2,
+      "meanTransitMin": 29.4,
+      "meanBicycleMin": 31,
+      "meanWalkingMin": 44.7,
+      "source": "1118_MG_Antananarivo"
+    },
+    "Santo Domingo": {
+      "meanDistanceKm": 5.7,
+      "meanCarMin": 12.9,
+      "meanTransitMin": 31.1,
+      "meanBicycleMin": 33.3,
+      "meanWalkingMin": 45,
+      "source": "30_DO_Santo_Domingo"
+    },
+    "Chittagong": {
+      "meanDistanceKm": 9.15,
+      "meanCarMin": 17.8,
+      "meanTransitMin": 43,
+      "meanBicycleMin": 42.5,
+      "meanWalkingMin": 46.5,
+      "source": "678_BD_Chittagong"
+    },
+    "Brooklyn": {
+      "meanDistanceKm": 0.9,
+      "meanCarMin": 6,
+      "meanTransitMin": 14.3,
+      "meanBicycleMin": 8.2,
+      "meanWalkingMin": 27.8,
+      "source": "255_US_Brooklyn"
+    },
+    "Ibadan": {
+      "meanDistanceKm": 17.33,
+      "meanCarMin": 29.5,
+      "meanTransitMin": 71.2,
+      "meanBicycleMin": 49.1,
+      "meanWalkingMin": 51.4,
+      "source": "605_NG_Ibadan"
+    },
+    "Medellín": {
+      "meanDistanceKm": 9.55,
+      "meanCarMin": 18.4,
+      "meanTransitMin": 44.4,
+      "meanBicycleMin": 42.2,
+      "meanWalkingMin": 45.6,
+      "source": "hzy-215_COL_Medellin"
+    },
+    "Dubai": {
+      "meanDistanceKm": 18.91,
+      "meanCarMin": 31.8,
+      "meanTransitMin": 76.9,
+      "meanBicycleMin": 48.7,
+      "meanWalkingMin": 50.6,
+      "source": "450_AE_Dubai"
+    },
+    "Tashkent": {
+      "meanDistanceKm": 9.16,
+      "meanCarMin": 17.8,
+      "meanTransitMin": 42.6,
+      "meanBicycleMin": 45.6,
+      "meanWalkingMin": 46.6,
+      "source": "994_UZ_Tashkent"
+    },
+    "Cali": {
+      "meanDistanceKm": 6.76,
+      "meanCarMin": 14.4,
+      "meanTransitMin": 34.7,
+      "meanBicycleMin": 37.6,
+      "meanWalkingMin": 45.6,
+      "source": "834_CO_Cali"
+    },
+    "Daegu": {
+      "meanDistanceKm": 20.99,
+      "meanCarMin": 34.8,
+      "meanTransitMin": 83.4,
+      "meanBicycleMin": 48.9,
+      "meanWalkingMin": 60.4,
+      "source": "GHSL-664_KOR_Daegu"
+    },
+    "Ouagadougou": {
+      "meanDistanceKm": 11.1,
+      "meanCarMin": 20.6,
+      "meanTransitMin": 49.9,
+      "meanBicycleMin": 46,
+      "meanWalkingMin": 47.5,
+      "source": "685_BF_Ouagadougou"
+    },
+    "Fortaleza": {
+      "meanDistanceKm": 7.34,
+      "meanCarMin": 15.2,
+      "meanTransitMin": 36.5,
+      "meanBicycleMin": 37.1,
+      "meanWalkingMin": 45,
+      "source": "302_BR_Fortaleza"
+    },
+    "Douala": {
+      "meanDistanceKm": 9.31,
+      "meanCarMin": 18,
+      "meanTransitMin": 43.5,
+      "meanBicycleMin": 44,
+      "meanWalkingMin": 45.6,
+      "source": "833_CM_Douala"
+    },
+    "Yaounde": {
+      "meanDistanceKm": 12.9,
+      "meanCarMin": 23.2,
+      "meanTransitMin": 55.9,
+      "meanBicycleMin": 47.1,
+      "meanWalkingMin": 46,
+      "source": "832_CM_Yaounde"
+    }
+  },
+  "modeShareData": {
+    "Tokyo": {
+      "refArea": "JPN01F",
+      "years": [
+        {
+          "year": 2010,
+          "shares": {
+            "Car": 20.9,
+            "Public transport": 37.3,
+            "Walking": 7.2,
+            "Bicycle": 12,
+            "Motor bike or scooter": 2.7,
+            "Other": 19.9
+          }
+        },
+        {
+          "year": 2020,
+          "shares": {
+            "Car": 21.1,
+            "Public transport": 39.9,
+            "Walking": 7.5,
+            "Bicycle": 11.3,
+            "Motor bike or scooter": 2,
+            "Other": 18.2
+          }
+        }
+      ]
+    },
+    "Osaka": {
+      "refArea": "JPN02F",
+      "years": [
+        {
+          "year": 2010,
+          "shares": {
+            "Car": 23.5,
+            "Public transport": 28.9,
+            "Walking": 7,
+            "Bicycle": 17.7,
+            "Motor bike or scooter": 5.7,
+            "Other": 17.2
+          }
+        },
+        {
+          "year": 2020,
+          "shares": {
+            "Car": 24.5,
+            "Public transport": 30.8,
+            "Walking": 7.3,
+            "Bicycle": 16.9,
+            "Motor bike or scooter": 4.5,
+            "Other": 16
+          }
+        }
+      ]
+    },
+    "London": {
+      "refArea": "UK001F",
+      "years": [
+        {
+          "year": 2011,
+          "shares": {
+            "Car": 69.8,
+            "Public transport": 9.3,
+            "Walking": 14.5,
+            "Bicycle": 4.5,
+            "Motor bike or scooter": 1,
+            "Other": 0.8
+          }
+        },
+        {
+          "year": 2021,
+          "shares": {
+            "Car": 48.4,
+            "Public transport": 32.8,
+            "Walking": 10.8,
+            "Bicycle": 4.2,
+            "Motor bike or scooter": 1.1,
+            "Other": 2.8
+          }
+        }
+      ]
+    },
+    "Paris": {
+      "refArea": "FR001F",
+      "years": [
+        {
+          "year": 2014,
+          "shares": {
+            "Car": 47.2,
+            "Public transport": 45.2,
+            "Walking": 7.6,
+            "Bicycle": 0,
+            "Motor bike or scooter": 0,
+            "Other": 0
+          }
+        },
+        {
+          "year": 2020,
+          "shares": {
+            "Car": 43.8,
+            "Public transport": 43.5,
+            "Walking": 7.1,
+            "Bicycle": 2.9,
+            "Motor bike or scooter": 2.8,
+            "Other": 0
+          }
+        }
+      ]
+    },
+    "Nagoya": {
+      "refArea": "JPN03F",
+      "years": [
+        {
+          "year": 2010,
+          "shares": {
+            "Car": 54.5,
+            "Public transport": 13.7,
+            "Walking": 6.3,
+            "Bicycle": 11.8,
+            "Motor bike or scooter": 1.7,
+            "Other": 12.1
+          }
+        },
+        {
+          "year": 2020,
+          "shares": {
+            "Car": 56.2,
+            "Public transport": 15.3,
+            "Walking": 6.1,
+            "Bicycle": 9.9,
+            "Motor bike or scooter": 1.1,
+            "Other": 11.4
+          }
+        }
+      ]
+    },
+    "Chicago": {
+      "refArea": "USA03F",
+      "years": [
+        {
+          "year": 2011,
+          "shares": {
+            "Car": 83.2,
+            "Public transport": 11.9,
+            "Walking": 3.2,
+            "Bicycle": 0.6,
+            "Motor bike or scooter": 0.1,
+            "Other": 1
+          }
+        },
+        {
+          "year": 2015,
+          "shares": {
+            "Car": 82.7,
+            "Public transport": 12.2,
+            "Walking": 3.3,
+            "Bicycle": 0.7,
+            "Motor bike or scooter": 0.1,
+            "Other": 1.1
+          }
+        },
+        {
+          "year": 2018,
+          "shares": {
+            "Car": 82.1,
+            "Public transport": 12.7,
+            "Walking": 3.2,
+            "Bicycle": 0.7,
+            "Motor bike or scooter": 0.1,
+            "Other": 1.2
+          }
+        },
+        {
+          "year": 2022,
+          "shares": {
+            "Car": 84.2,
+            "Public transport": 10.4,
+            "Walking": 3.1,
+            "Bicycle": 0.7,
+            "Motor bike or scooter": 0.1,
+            "Other": 1.6
+          }
+        }
+      ]
+    },
+    "Santiago": {
+      "refArea": "CL011F",
+      "years": [
+        {
+          "year": 2022,
+          "shares": {
+            "Car": 33.9,
+            "Public transport": 50.5,
+            "Walking": 11,
+            "Bicycle": 4.1,
+            "Motor bike or scooter": 0,
+            "Other": 0.5
+          }
+        }
+      ]
+    },
+    "Dallas": {
+      "refArea": "USA07F",
+      "years": [
+        {
+          "year": 2011,
+          "shares": {
+            "Car": 95.6,
+            "Public transport": 1.5,
+            "Walking": 1.3,
+            "Bicycle": 0.2,
+            "Motor bike or scooter": 0.2,
+            "Other": 1.1
+          }
+        },
+        {
+          "year": 2015,
+          "shares": {
+            "Car": 95.5,
+            "Public transport": 1.6,
+            "Walking": 1.3,
+            "Bicycle": 0.2,
+            "Motor bike or scooter": 0.2,
+            "Other": 1.3
+          }
+        },
+        {
+          "year": 2018,
+          "shares": {
+            "Car": 95.7,
+            "Public transport": 1.5,
+            "Walking": 1.3,
+            "Bicycle": 0.2,
+            "Motor bike or scooter": 0.2,
+            "Other": 1.2
+          }
+        },
+        {
+          "year": 2022,
+          "shares": {
+            "Car": 95.9,
+            "Public transport": 1,
+            "Walking": 1.4,
+            "Bicycle": 0.2,
+            "Motor bike or scooter": 0.1,
+            "Other": 1.4
+          }
+        }
+      ]
+    },
+    "Houston": {
+      "refArea": "USA08F",
+      "years": [
+        {
+          "year": 2011,
+          "shares": {
+            "Car": 94.1,
+            "Public transport": 2.5,
+            "Walking": 1.5,
+            "Bicycle": 0.3,
+            "Motor bike or scooter": 0.2,
+            "Other": 1.4
+          }
+        },
+        {
+          "year": 2015,
+          "shares": {
+            "Car": 94.2,
+            "Public transport": 2.4,
+            "Walking": 1.4,
+            "Bicycle": 0.3,
+            "Motor bike or scooter": 0.2,
+            "Other": 1.4
+          }
+        },
+        {
+          "year": 2018,
+          "shares": {
+            "Car": 94.7,
+            "Public transport": 2.2,
+            "Walking": 1.3,
+            "Bicycle": 0.3,
+            "Motor bike or scooter": 0.1,
+            "Other": 1.4
+          }
+        },
+        {
+          "year": 2022,
+          "shares": {
+            "Car": 94.6,
+            "Public transport": 1.9,
+            "Walking": 1.3,
+            "Bicycle": 0.3,
+            "Motor bike or scooter": 0.1,
+            "Other": 1.9
+          }
+        }
+      ]
+    },
+    "Atlanta": {
+      "refArea": "USA10F",
+      "years": [
+        {
+          "year": 2011,
+          "shares": {
+            "Car": 93.2,
+            "Public transport": 3.6,
+            "Walking": 1.4,
+            "Bicycle": 0.2,
+            "Motor bike or scooter": 0.2,
+            "Other": 1.4
+          }
+        },
+        {
+          "year": 2015,
+          "shares": {
+            "Car": 93.6,
+            "Public transport": 3.4,
+            "Walking": 1.5,
+            "Bicycle": 0.2,
+            "Motor bike or scooter": 0.1,
+            "Other": 1.3
+          }
+        },
+        {
+          "year": 2018,
+          "shares": {
+            "Car": 93.3,
+            "Public transport": 3.4,
+            "Walking": 1.4,
+            "Bicycle": 0.2,
+            "Motor bike or scooter": 0.1,
+            "Other": 1.5
+          }
+        },
+        {
+          "year": 2022,
+          "shares": {
+            "Car": 93.8,
+            "Public transport": 2.6,
+            "Walking": 1.4,
+            "Bicycle": 0.2,
+            "Motor bike or scooter": 0.1,
+            "Other": 2
+          }
+        }
+      ]
+    },
+    "Toronto": {
+      "refArea": "CAN01F",
+      "years": [
+        {
+          "year": 2021,
+          "shares": {
+            "Car": 78.4,
+            "Public transport": 13.7,
+            "Walking": 4.4,
+            "Bicycle": 0.9,
+            "Motor bike or scooter": 0.1,
+            "Other": 2.5
+          }
+        }
+      ]
+    },
+    "Boston": {
+      "refArea": "USA11F",
+      "years": [
+        {
+          "year": 2011,
+          "shares": {
+            "Car": 78.8,
+            "Public transport": 13.7,
+            "Walking": 5.7,
+            "Bicycle": 0.9,
+            "Motor bike or scooter": 0.1,
+            "Other": 0.8
+          }
+        },
+        {
+          "year": 2015,
+          "shares": {
+            "Car": 77.4,
+            "Public transport": 14.6,
+            "Walking": 5.9,
+            "Bicycle": 1,
+            "Motor bike or scooter": 0.1,
+            "Other": 1
+          }
+        },
+        {
+          "year": 2018,
+          "shares": {
+            "Car": 76.2,
+            "Public transport": 15.3,
+            "Walking": 5.9,
+            "Bicycle": 1.2,
+            "Motor bike or scooter": 0.1,
+            "Other": 1.3
+          }
+        },
+        {
+          "year": 2022,
+          "shares": {
+            "Car": 78,
+            "Public transport": 12.7,
+            "Walking": 6.1,
+            "Bicycle": 1.2,
+            "Motor bike or scooter": 0.1,
+            "Other": 1.9
+          }
+        }
+      ]
+    },
+    "Phoenix": {
+      "refArea": "USA12F",
+      "years": [
+        {
+          "year": 2011,
+          "shares": {
+            "Car": 93.4,
+            "Public transport": 2.4,
+            "Walking": 1.8,
+            "Bicycle": 0.8,
+            "Motor bike or scooter": 0.5,
+            "Other": 1.1
+          }
+        },
+        {
+          "year": 2015,
+          "shares": {
+            "Car": 93.2,
+            "Public transport": 2.3,
+            "Walking": 1.6,
+            "Bicycle": 0.9,
+            "Motor bike or scooter": 0.5,
+            "Other": 1.3
+          }
+        },
+        {
+          "year": 2018,
+          "shares": {
+            "Car": 93.6,
+            "Public transport": 2.1,
+            "Walking": 1.6,
+            "Bicycle": 0.9,
+            "Motor bike or scooter": 0.4,
+            "Other": 1.4
+          }
+        },
+        {
+          "year": 2022,
+          "shares": {
+            "Car": 94.1,
+            "Public transport": 1.5,
+            "Walking": 1.6,
+            "Bicycle": 0.6,
+            "Motor bike or scooter": 0.4,
+            "Other": 1.8
+          }
+        }
+      ]
+    },
+    "Seattle": {
+      "refArea": "USA14F",
+      "years": [
+        {
+          "year": 2011,
+          "shares": {
+            "Car": 85.3,
+            "Public transport": 8.7,
+            "Walking": 3.8,
+            "Bicycle": 1,
+            "Motor bike or scooter": 0.4,
+            "Other": 0.7
+          }
+        },
+        {
+          "year": 2015,
+          "shares": {
+            "Car": 84.3,
+            "Public transport": 9.5,
+            "Walking": 3.8,
+            "Bicycle": 1.2,
+            "Motor bike or scooter": 0.4,
+            "Other": 0.8
+          }
+        },
+        {
+          "year": 2018,
+          "shares": {
+            "Car": 82.9,
+            "Public transport": 10.4,
+            "Walking": 4.2,
+            "Bicycle": 1.2,
+            "Motor bike or scooter": 0.3,
+            "Other": 0.9
+          }
+        },
+        {
+          "year": 2022,
+          "shares": {
+            "Car": 84.7,
+            "Public transport": 8.4,
+            "Walking": 4.3,
+            "Bicycle": 1,
+            "Motor bike or scooter": 0.2,
+            "Other": 1.3
+          }
+        }
+      ]
+    },
+    "Berlin": {
+      "refArea": "DE001F",
+      "years": [
+        {
+          "year": 1991,
+          "shares": {
+            "Car": 38.8,
+            "Other": 61.2
+          }
+        },
+        {
+          "year": 2004,
+          "shares": {
+            "Car": 52.6,
+            "Public transport": 30.1,
+            "Walking": 7.5,
+            "Bicycle": 8.9,
+            "Motor bike or scooter": 0.9,
+            "Other": 0
+          }
+        },
+        {
+          "year": 2007,
+          "shares": {
+            "Car": 46.5,
+            "Public transport": 32.1,
+            "Walking": 7,
+            "Bicycle": 10.7,
+            "Motor bike or scooter": 0.9,
+            "Other": 2.8
+          }
+        },
+        {
+          "year": 2016,
+          "shares": {
+            "Car": 47.6,
+            "Public transport": 33.5,
+            "Walking": 5.7,
+            "Bicycle": 11.9,
+            "Motor bike or scooter": 1.3,
+            "Other": 0
+          }
+        }
+      ]
+    },
+    "Montreal": {
+      "refArea": "CAN02F",
+      "years": [
+        {
+          "year": 2021,
+          "shares": {
+            "Car": 76.8,
+            "Public transport": 14.3,
+            "Walking": 5.6,
+            "Bicycle": 1.7,
+            "Motor bike or scooter": 0.2,
+            "Other": 1.4
+          }
+        }
+      ]
+    },
+    "San Diego": {
+      "refArea": "USA16F",
+      "years": [
+        {
+          "year": 2011,
+          "shares": {
+            "Car": 91.7,
+            "Public transport": 3.5,
+            "Walking": 3,
+            "Bicycle": 0.7,
+            "Motor bike or scooter": 0.5,
+            "Other": 0.7
+          }
+        },
+        {
+          "year": 2015,
+          "shares": {
+            "Car": 91.6,
+            "Public transport": 3.2,
+            "Walking": 3.1,
+            "Bicycle": 0.7,
+            "Motor bike or scooter": 0.6,
+            "Other": 0.8
+          }
+        },
+        {
+          "year": 2018,
+          "shares": {
+            "Car": 91.3,
+            "Public transport": 3.1,
+            "Walking": 3.1,
+            "Bicycle": 0.7,
+            "Motor bike or scooter": 0.6,
+            "Other": 1.2
+          }
+        },
+        {
+          "year": 2022,
+          "shares": {
+            "Car": 91.5,
+            "Public transport": 2.6,
+            "Walking": 3.4,
+            "Bicycle": 0.5,
+            "Motor bike or scooter": 0.5,
+            "Other": 1.4
+          }
+        }
+      ]
+    },
+    "Minneapolis": {
+      "refArea": "USA15F",
+      "years": [
+        {
+          "year": 2011,
+          "shares": {
+            "Car": 91,
+            "Public transport": 4.9,
+            "Walking": 2.4,
+            "Bicycle": 0.9,
+            "Motor bike or scooter": 0.2,
+            "Other": 0.6
+          }
+        },
+        {
+          "year": 2015,
+          "shares": {
+            "Car": 90.8,
+            "Public transport": 4.9,
+            "Walking": 2.4,
+            "Bicycle": 1,
+            "Motor bike or scooter": 0.2,
+            "Other": 0.7
+          }
+        },
+        {
+          "year": 2018,
+          "shares": {
+            "Car": 90.7,
+            "Public transport": 5,
+            "Walking": 2.4,
+            "Bicycle": 1,
+            "Motor bike or scooter": 0.2,
+            "Other": 0.8
+          }
+        },
+        {
+          "year": 2022,
+          "shares": {
+            "Car": 91.9,
+            "Public transport": 3.7,
+            "Walking": 2.5,
+            "Bicycle": 0.7,
+            "Motor bike or scooter": 0.1,
+            "Other": 1.1
+          }
+        }
+      ]
+    },
+    "Denver": {
+      "refArea": "USA18F",
+      "years": [
+        {
+          "year": 2011,
+          "shares": {
+            "Car": 90.7,
+            "Public transport": 4.8,
+            "Walking": 2.3,
+            "Bicycle": 0.9,
+            "Motor bike or scooter": 0.3,
+            "Other": 0.9
+          }
+        },
+        {
+          "year": 2015,
+          "shares": {
+            "Car": 91.1,
+            "Public transport": 4.6,
+            "Walking": 2.3,
+            "Bicycle": 0.9,
+            "Motor bike or scooter": 0.2,
+            "Other": 0.8
+          }
+        },
+        {
+          "year": 2018,
+          "shares": {
+            "Car": 91.1,
+            "Public transport": 4.5,
+            "Walking": 2.3,
+            "Bicycle": 0.9,
+            "Motor bike or scooter": 0.2,
+            "Other": 0.9
+          }
+        },
+        {
+          "year": 2022,
+          "shares": {
+            "Car": 91.6,
+            "Public transport": 3.5,
+            "Walking": 2.6,
+            "Bicycle": 0.9,
+            "Motor bike or scooter": 0.2,
+            "Other": 1.2
+          }
+        }
+      ]
+    }
+  },
+  "scatterSpeedArea": [
+    {
+      "name": "Tokyo",
+      "areaKm2": 11971,
+      "speedKmh": 19.58,
+      "population": 36471787,
+      "dominantMode": "Public transport"
+    },
+    {
+      "name": "Jakarta",
+      "areaKm2": 5292,
+      "speedKmh": 11.71,
+      "population": 29753582,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Delhi",
+      "areaKm2": 5569,
+      "speedKmh": 15.09,
+      "population": 30076708,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Manila",
+      "areaKm2": 4873,
+      "speedKmh": 3.37,
+      "population": 24958274,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Seoul",
+      "areaKm2": 7053,
+      "speedKmh": 14.22,
+      "population": 24287447,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Mumbai",
+      "areaKm2": 2367,
+      "speedKmh": 14.25,
+      "population": 22277275,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Shanghai",
+      "areaKm2": 5878,
+      "speedKmh": 14.91,
+      "population": 26920218,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Mexico City",
+      "areaKm2": 4831,
+      "speedKmh": 14.51,
+      "population": 21410706,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Guangzhou",
+      "areaKm2": 4413,
+      "speedKmh": 14.36,
+      "population": 16746844,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Cairo",
+      "areaKm2": 4348,
+      "speedKmh": 15.97,
+      "population": 23490198,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Beijing",
+      "areaKm2": 5536,
+      "speedKmh": 15.77,
+      "population": 21279474,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "New York",
+      "areaKm2": 17489,
+      "speedKmh": 14.85,
+      "population": 19523053,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Moscow",
+      "areaKm2": 8459,
+      "speedKmh": 5.75,
+      "population": 16375317,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Bangkok",
+      "areaKm2": 5161,
+      "speedKmh": 15.34,
+      "population": 16290188,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Dhaka",
+      "areaKm2": 3268,
+      "speedKmh": 13.69,
+      "population": 20392157,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Buenos Aires",
+      "areaKm2": 5376,
+      "speedKmh": 5.9,
+      "population": 14984069,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Lagos",
+      "areaKm2": 2284,
+      "speedKmh": 15.68,
+      "population": 12337227,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Istanbul",
+      "areaKm2": 2540,
+      "speedKmh": 15.35,
+      "population": 14791739,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Karachi",
+      "areaKm2": 1348,
+      "speedKmh": 14.53,
+      "population": 13417664,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Kinshasa",
+      "areaKm2": 591,
+      "speedKmh": 14.68,
+      "population": 5764312,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Tehran",
+      "areaKm2": 3332,
+      "speedKmh": 15.7,
+      "population": 13408680,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Los Angeles",
+      "areaKm2": 10407,
+      "speedKmh": 15.15,
+      "population": 15655357,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Rio de Janeiro",
+      "areaKm2": 3598,
+      "speedKmh": 15.16,
+      "population": 10814391,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Lahore",
+      "areaKm2": 3154,
+      "speedKmh": 12.95,
+      "population": 11786291,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "London",
+      "areaKm2": 6605,
+      "speedKmh": 26.76,
+      "population": 12598186,
+      "dominantMode": "Car"
+    },
+    {
+      "name": "Paris",
+      "areaKm2": 6778,
+      "speedKmh": 14.72,
+      "population": 11236407,
+      "dominantMode": "Car"
+    },
+    {
+      "name": "Nagoya",
+      "areaKm2": 7350,
+      "speedKmh": 32.43,
+      "population": 9590442,
+      "dominantMode": "Car"
+    },
+    {
+      "name": "Lima",
+      "areaKm2": 2121,
+      "speedKmh": 15.43,
+      "population": 9669593,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Luanda",
+      "areaKm2": 1941,
+      "speedKmh": 15.29,
+      "population": 7308152,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Kuala Lumpur",
+      "areaKm2": 3314,
+      "speedKmh": 13.38,
+      "population": 7481103,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Chicago",
+      "areaKm2": 13185,
+      "speedKmh": 29.5,
+      "population": 8797569,
+      "dominantMode": "Car"
+    },
+    {
+      "name": "Hanoi",
+      "areaKm2": 3293,
+      "speedKmh": 11.83,
+      "population": 8350600,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Bogotá",
+      "areaKm2": 1863,
+      "speedKmh": 15.24,
+      "population": 9080732,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Dar es Salaam",
+      "areaKm2": 1057,
+      "speedKmh": 14.9,
+      "population": 5644866,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Hong Kong",
+      "areaKm2": 684,
+      "speedKmh": 15.06,
+      "population": 5845663,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Santiago",
+      "areaKm2": 2923,
+      "speedKmh": 21.33,
+      "population": 7087660,
+      "dominantMode": "Public transport"
+    },
+    {
+      "name": "Riyadh",
+      "areaKm2": 3239,
+      "speedKmh": 15.9,
+      "population": 6299387,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Miami",
+      "areaKm2": 6494,
+      "speedKmh": 3.94,
+      "population": 5808585,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Baghdad",
+      "areaKm2": 2252,
+      "speedKmh": 15,
+      "population": 6245609,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Khartoum",
+      "areaKm2": 1363,
+      "speedKmh": 12.46,
+      "population": 6229523,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Madrid",
+      "areaKm2": 4270,
+      "speedKmh": 14.15,
+      "population": 6131919,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Dallas",
+      "areaKm2": 19826,
+      "speedKmh": 15.56,
+      "population": 7077558,
+      "dominantMode": "Car"
+    },
+    {
+      "name": "Philadelphia",
+      "areaKm2": 11525,
+      "speedKmh": 13.67,
+      "population": 6113871,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Nairobi",
+      "areaKm2": 859,
+      "speedKmh": 14.44,
+      "population": 4712494,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Houston",
+      "areaKm2": 15114,
+      "speedKmh": 8.94,
+      "population": 6442256,
+      "dominantMode": "Car"
+    },
+    {
+      "name": "Atlanta",
+      "areaKm2": 12348,
+      "speedKmh": 20.17,
+      "population": 5591339,
+      "dominantMode": "Car"
+    },
+    {
+      "name": "Guadalajara",
+      "areaKm2": 1968,
+      "speedKmh": 15.22,
+      "population": 5184365,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Yangon",
+      "areaKm2": 1321,
+      "speedKmh": 14.91,
+      "population": 6143162,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Toronto",
+      "areaKm2": 8223,
+      "speedKmh": 33.14,
+      "population": 7278248,
+      "dominantMode": "Car"
+    },
+    {
+      "name": "Saint Petersburg",
+      "areaKm2": 2764,
+      "speedKmh": 12.13,
+      "population": 5002494,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Singapore",
+      "areaKm2": 637,
+      "speedKmh": 13.95,
+      "population": 5602398,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Belo Horizonte",
+      "areaKm2": 3099,
+      "speedKmh": 12.14,
+      "population": 4966927,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Abidjan",
+      "areaKm2": 1082,
+      "speedKmh": 13.86,
+      "population": 4649772,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Alexandria",
+      "areaKm2": 1198,
+      "speedKmh": 15.14,
+      "population": 5860478,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Sydney",
+      "areaKm2": 3881,
+      "speedKmh": 4.18,
+      "population": 4404986,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Barcelona",
+      "areaKm2": 1967,
+      "speedKmh": 11.56,
+      "population": 4609370,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Boston",
+      "areaKm2": 2800,
+      "speedKmh": 31.36,
+      "population": 2703582,
+      "dominantMode": "Car"
+    },
+    {
+      "name": "Melbourne",
+      "areaKm2": 8348,
+      "speedKmh": 6.88,
+      "population": 4474594,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Johannesburg",
+      "areaKm2": 3795,
+      "speedKmh": 15.68,
+      "population": 8182342,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Casablanca",
+      "areaKm2": 915,
+      "speedKmh": 14.88,
+      "population": 4377455,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Kabul",
+      "areaKm2": 707,
+      "speedKmh": 13.3,
+      "population": 4604344,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Phoenix",
+      "areaKm2": 9707,
+      "speedKmh": 8.88,
+      "population": 4567289,
+      "dominantMode": "Car"
+    },
+    {
+      "name": "Amman",
+      "areaKm2": 1598,
+      "speedKmh": 14.23,
+      "population": 4123100,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Jeddah",
+      "areaKm2": 1517,
+      "speedKmh": 15.33,
+      "population": 3992565,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Kano",
+      "areaKm2": 1397,
+      "speedKmh": 11.65,
+      "population": 4821779,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Seattle",
+      "areaKm2": 8328,
+      "speedKmh": 26.5,
+      "population": 3866487,
+      "dominantMode": "Car"
+    },
+    {
+      "name": "Berlin",
+      "areaKm2": 3572,
+      "speedKmh": 24.49,
+      "population": 4290483,
+      "dominantMode": "Car"
+    },
+    {
+      "name": "San Francisco",
+      "areaKm2": 4038,
+      "speedKmh": 14.99,
+      "population": 5118912,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Montreal",
+      "areaKm2": 5027,
+      "speedKmh": 31.49,
+      "population": 4089586,
+      "dominantMode": "Car"
+    },
+    {
+      "name": "Detroit",
+      "areaKm2": 8184,
+      "speedKmh": 3.69,
+      "population": 4065589,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Busan",
+      "areaKm2": 1478,
+      "speedKmh": 15.11,
+      "population": 4218268,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Algiers",
+      "areaKm2": 1802,
+      "speedKmh": 12.71,
+      "population": 4921385,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "San Diego",
+      "areaKm2": 3940,
+      "speedKmh": 10.22,
+      "population": 3177732,
+      "dominantMode": "Car"
+    },
+    {
+      "name": "Faisalabad",
+      "areaKm2": 1644,
+      "speedKmh": 13.24,
+      "population": 4979823,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Addis Ababa",
+      "areaKm2": 810,
+      "speedKmh": 13.85,
+      "population": 3968807,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Brasília",
+      "areaKm2": 867,
+      "speedKmh": 14.92,
+      "population": 1973464,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Mashhad",
+      "areaKm2": 830,
+      "speedKmh": 13.35,
+      "population": 3181981,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Minneapolis",
+      "areaKm2": 9833,
+      "speedKmh": 25.4,
+      "population": 3273027,
+      "dominantMode": "Car"
+    },
+    {
+      "name": "Kyiv",
+      "areaKm2": 3385,
+      "speedKmh": 14.48,
+      "population": 3438138,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Quezon City",
+      "areaKm2": 4873,
+      "speedKmh": 11.95,
+      "population": 24958274,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Sanaa",
+      "areaKm2": 500,
+      "speedKmh": 10.99,
+      "population": 2671299,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Tampa",
+      "areaKm2": 4168,
+      "speedKmh": 14.06,
+      "population": 2678158,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Salvador",
+      "areaKm2": 623,
+      "speedKmh": 14.14,
+      "population": 3252523,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Surabaya",
+      "areaKm2": 4278,
+      "speedKmh": 14.66,
+      "population": 10752964,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Denver",
+      "areaKm2": 6917,
+      "speedKmh": 36.46,
+      "population": 2928613,
+      "dominantMode": "Car"
+    },
+    {
+      "name": "Bandung",
+      "areaKm2": 2312,
+      "speedKmh": 12.95,
+      "population": 9310751,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Rome",
+      "areaKm2": 2696,
+      "speedKmh": 13.97,
+      "population": 3501925,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "La Paz",
+      "areaKm2": 745,
+      "speedKmh": 12.86,
+      "population": 1772263,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Taichung",
+      "areaKm2": 1786,
+      "speedKmh": 15.24,
+      "population": 4020321,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Kaohsiung",
+      "areaKm2": 1088,
+      "speedKmh": 14.76,
+      "population": 2934154,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Guayaquil",
+      "areaKm2": 1016,
+      "speedKmh": 13,
+      "population": 2857865,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Taipei",
+      "areaKm2": 2463,
+      "speedKmh": 12.72,
+      "population": 9530829,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Antananarivo",
+      "areaKm2": 448,
+      "speedKmh": 10.76,
+      "population": 2386442,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Santo Domingo",
+      "areaKm2": 1582,
+      "speedKmh": 11,
+      "population": 4248976,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Chittagong",
+      "areaKm2": 1591,
+      "speedKmh": 12.77,
+      "population": 5964578,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Brooklyn",
+      "areaKm2": 17489,
+      "speedKmh": 3.78,
+      "population": 19523053,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Ibadan",
+      "areaKm2": 1185,
+      "speedKmh": 14.6,
+      "population": 3327050,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Medellín",
+      "areaKm2": 692,
+      "speedKmh": 12.91,
+      "population": 3610595,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Dubai",
+      "areaKm2": 2177,
+      "speedKmh": 14.75,
+      "population": 5444031,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Tashkent",
+      "areaKm2": 1259,
+      "speedKmh": 12.9,
+      "population": 3704739,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Cali",
+      "areaKm2": 408,
+      "speedKmh": 11.69,
+      "population": 2390802,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Daegu",
+      "areaKm2": 2251,
+      "speedKmh": 15.1,
+      "population": 2868257,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Ouagadougou",
+      "areaKm2": 908,
+      "speedKmh": 13.35,
+      "population": 2813684,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Fortaleza",
+      "areaKm2": 1557,
+      "speedKmh": 12.07,
+      "population": 3611864,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Douala",
+      "areaKm2": 360,
+      "speedKmh": 12.84,
+      "population": 3002078,
+      "dominantMode": "Unknown"
+    },
+    {
+      "name": "Yaounde",
+      "areaKm2": 572,
+      "speedKmh": 13.85,
+      "population": 3547917,
+      "dominantMode": "Unknown"
+    }
+  ],
+  "speedTimeDistance": [
+    {
+      "name": "Buenos Aires",
+      "timeMin": 6.2,
+      "speedKmh": 5.9,
+      "distanceKm": 0.61
+    },
+    {
+      "name": "Houston",
+      "timeMin": 6.6,
+      "speedKmh": 8.94,
+      "distanceKm": 0.98
+    },
+    {
+      "name": "Phoenix",
+      "timeMin": 6.6,
+      "speedKmh": 8.88,
+      "distanceKm": 0.98
+    },
+    {
+      "name": "San Diego",
+      "timeMin": 7.9,
+      "speedKmh": 10.22,
+      "distanceKm": 1.34
+    },
+    {
+      "name": "Dallas",
+      "timeMin": 8.4,
+      "speedKmh": 15.56,
+      "distanceKm": 2.18
+    },
+    {
+      "name": "Atlanta",
+      "timeMin": 10.7,
+      "speedKmh": 20.17,
+      "distanceKm": 3.59
+    },
+    {
+      "name": "Manila",
+      "timeMin": 13.9,
+      "speedKmh": 3.37,
+      "distanceKm": 0.78
+    },
+    {
+      "name": "Miami",
+      "timeMin": 14.3,
+      "speedKmh": 3.94,
+      "distanceKm": 0.94
+    },
+    {
+      "name": "Detroit",
+      "timeMin": 14.3,
+      "speedKmh": 3.69,
+      "distanceKm": 0.88
+    },
+    {
+      "name": "Brooklyn",
+      "timeMin": 14.3,
+      "speedKmh": 3.78,
+      "distanceKm": 0.9
+    },
+    {
+      "name": "Sydney",
+      "timeMin": 14.8,
+      "speedKmh": 4.18,
+      "distanceKm": 1.03
+    },
+    {
+      "name": "Minneapolis",
+      "timeMin": 16.4,
+      "speedKmh": 25.4,
+      "distanceKm": 6.95
+    },
+    {
+      "name": "Moscow",
+      "timeMin": 16.9,
+      "speedKmh": 5.75,
+      "distanceKm": 1.62
+    },
+    {
+      "name": "Melbourne",
+      "timeMin": 18.5,
+      "speedKmh": 6.88,
+      "distanceKm": 2.12
+    },
+    {
+      "name": "Seattle",
+      "timeMin": 22.8,
+      "speedKmh": 26.5,
+      "distanceKm": 10.06
+    },
+    {
+      "name": "Paris",
+      "timeMin": 25,
+      "speedKmh": 14.72,
+      "distanceKm": 6.14
+    },
+    {
+      "name": "Antananarivo",
+      "timeMin": 29.4,
+      "speedKmh": 10.76,
+      "distanceKm": 5.27
+    },
+    {
+      "name": "Sanaa",
+      "timeMin": 31,
+      "speedKmh": 10.99,
+      "distanceKm": 5.68
+    },
+    {
+      "name": "Santo Domingo",
+      "timeMin": 31.1,
+      "speedKmh": 11,
+      "distanceKm": 5.7
+    },
+    {
+      "name": "Jakarta",
+      "timeMin": 32.6,
+      "speedKmh": 11.71,
+      "distanceKm": 6.36
+    },
+    {
+      "name": "Chicago",
+      "timeMin": 32.9,
+      "speedKmh": 29.5,
+      "distanceKm": 16.18
+    },
+    {
+      "name": "Barcelona",
+      "timeMin": 33.9,
+      "speedKmh": 11.56,
+      "distanceKm": 6.53
+    },
+    {
+      "name": "Kano",
+      "timeMin": 34.1,
+      "speedKmh": 11.65,
+      "distanceKm": 6.62
+    },
+    {
+      "name": "Cali",
+      "timeMin": 34.7,
+      "speedKmh": 11.69,
+      "distanceKm": 6.76
+    },
+    {
+      "name": "Hanoi",
+      "timeMin": 35.5,
+      "speedKmh": 11.83,
+      "distanceKm": 7
+    },
+    {
+      "name": "Quezon City",
+      "timeMin": 36.3,
+      "speedKmh": 11.95,
+      "distanceKm": 7.23
+    },
+    {
+      "name": "Fortaleza",
+      "timeMin": 36.5,
+      "speedKmh": 12.07,
+      "distanceKm": 7.34
+    },
+    {
+      "name": "Saint Petersburg",
+      "timeMin": 37.1,
+      "speedKmh": 12.13,
+      "distanceKm": 7.5
+    },
+    {
+      "name": "Belo Horizonte",
+      "timeMin": 37.9,
+      "speedKmh": 12.14,
+      "distanceKm": 7.67
+    },
+    {
+      "name": "Bandung",
+      "timeMin": 39.1,
+      "speedKmh": 12.95,
+      "distanceKm": 8.44
+    },
+    {
+      "name": "Khartoum",
+      "timeMin": 40.7,
+      "speedKmh": 12.46,
+      "distanceKm": 8.45
+    },
+    {
+      "name": "Algiers",
+      "timeMin": 42.4,
+      "speedKmh": 12.71,
+      "distanceKm": 8.98
+    },
+    {
+      "name": "Taipei",
+      "timeMin": 42.5,
+      "speedKmh": 12.72,
+      "distanceKm": 9.01
+    },
+    {
+      "name": "Tashkent",
+      "timeMin": 42.6,
+      "speedKmh": 12.9,
+      "distanceKm": 9.16
+    },
+    {
+      "name": "Chittagong",
+      "timeMin": 43,
+      "speedKmh": 12.77,
+      "distanceKm": 9.15
+    },
+    {
+      "name": "Douala",
+      "timeMin": 43.5,
+      "speedKmh": 12.84,
+      "distanceKm": 9.31
+    },
+    {
+      "name": "Lahore",
+      "timeMin": 44.4,
+      "speedKmh": 12.95,
+      "distanceKm": 9.58
+    },
+    {
+      "name": "Medellín",
+      "timeMin": 44.4,
+      "speedKmh": 12.91,
+      "distanceKm": 9.55
+    },
+    {
+      "name": "La Paz",
+      "timeMin": 44.5,
+      "speedKmh": 12.86,
+      "distanceKm": 9.54
+    },
+    {
+      "name": "Guayaquil",
+      "timeMin": 45.5,
+      "speedKmh": 13,
+      "distanceKm": 9.86
+    },
+    {
+      "name": "Faisalabad",
+      "timeMin": 48.3,
+      "speedKmh": 13.24,
+      "distanceKm": 10.66
+    },
+    {
+      "name": "Kabul",
+      "timeMin": 48.8,
+      "speedKmh": 13.3,
+      "distanceKm": 10.82
+    },
+    {
+      "name": "Kuala Lumpur",
+      "timeMin": 49.5,
+      "speedKmh": 13.38,
+      "distanceKm": 11.04
+    },
+    {
+      "name": "Mashhad",
+      "timeMin": 49.8,
+      "speedKmh": 13.35,
+      "distanceKm": 11.08
+    },
+    {
+      "name": "Ouagadougou",
+      "timeMin": 49.9,
+      "speedKmh": 13.35,
+      "distanceKm": 11.1
+    },
+    {
+      "name": "Philadelphia",
+      "timeMin": 54.2,
+      "speedKmh": 13.67,
+      "distanceKm": 12.35
+    },
+    {
+      "name": "Dhaka",
+      "timeMin": 54.3,
+      "speedKmh": 13.69,
+      "distanceKm": 12.39
+    },
+    {
+      "name": "Boston",
+      "timeMin": 55.3,
+      "speedKmh": 31.36,
+      "distanceKm": 28.88
+    },
+    {
+      "name": "Addis Ababa",
+      "timeMin": 55.9,
+      "speedKmh": 13.85,
+      "distanceKm": 12.9
+    },
+    {
+      "name": "Yaounde",
+      "timeMin": 55.9,
+      "speedKmh": 13.85,
+      "distanceKm": 12.9
+    },
+    {
+      "name": "Abidjan",
+      "timeMin": 56.2,
+      "speedKmh": 13.86,
+      "distanceKm": 12.98
+    },
+    {
+      "name": "Denver",
+      "timeMin": 57.3,
+      "speedKmh": 36.46,
+      "distanceKm": 34.83
+    },
+    {
+      "name": "Singapore",
+      "timeMin": 58.1,
+      "speedKmh": 13.95,
+      "distanceKm": 13.51
+    },
+    {
+      "name": "Rome",
+      "timeMin": 58.7,
+      "speedKmh": 13.97,
+      "distanceKm": 13.67
+    },
+    {
+      "name": "Tokyo",
+      "timeMin": 59.6,
+      "speedKmh": 19.58,
+      "distanceKm": 19.46
+    },
+    {
+      "name": "Surabaya",
+      "timeMin": 60.2,
+      "speedKmh": 14.66,
+      "distanceKm": 14.71
+    },
+    {
+      "name": "Salvador",
+      "timeMin": 61.3,
+      "speedKmh": 14.14,
+      "distanceKm": 14.45
+    },
+    {
+      "name": "Madrid",
+      "timeMin": 62.2,
+      "speedKmh": 14.15,
+      "distanceKm": 14.67
+    },
+    {
+      "name": "Tampa",
+      "timeMin": 62.3,
+      "speedKmh": 14.06,
+      "distanceKm": 14.6
+    },
+    {
+      "name": "Mumbai",
+      "timeMin": 63,
+      "speedKmh": 14.25,
+      "distanceKm": 14.96
+    },
+    {
+      "name": "Seoul",
+      "timeMin": 63.1,
+      "speedKmh": 14.22,
+      "distanceKm": 14.95
+    },
+    {
+      "name": "Amman",
+      "timeMin": 63.1,
+      "speedKmh": 14.23,
+      "distanceKm": 14.96
+    },
+    {
+      "name": "Montreal",
+      "timeMin": 64.1,
+      "speedKmh": 31.49,
+      "distanceKm": 33.64
+    },
+    {
+      "name": "Berlin",
+      "timeMin": 64.3,
+      "speedKmh": 24.49,
+      "distanceKm": 26.25
+    },
+    {
+      "name": "Guangzhou",
+      "timeMin": 67,
+      "speedKmh": 14.36,
+      "distanceKm": 16.04
+    },
+    {
+      "name": "Nairobi",
+      "timeMin": 67.8,
+      "speedKmh": 14.44,
+      "distanceKm": 16.32
+    },
+    {
+      "name": "Karachi",
+      "timeMin": 68.7,
+      "speedKmh": 14.53,
+      "distanceKm": 16.64
+    },
+    {
+      "name": "Mexico City",
+      "timeMin": 69.4,
+      "speedKmh": 14.51,
+      "distanceKm": 16.78
+    },
+    {
+      "name": "Kyiv",
+      "timeMin": 69.8,
+      "speedKmh": 14.48,
+      "distanceKm": 16.85
+    },
+    {
+      "name": "Ibadan",
+      "timeMin": 71.2,
+      "speedKmh": 14.6,
+      "distanceKm": 17.33
+    },
+    {
+      "name": "Kinshasa",
+      "timeMin": 72.9,
+      "speedKmh": 14.68,
+      "distanceKm": 17.84
+    },
+    {
+      "name": "Kaohsiung",
+      "timeMin": 75.8,
+      "speedKmh": 14.76,
+      "distanceKm": 18.65
+    },
+    {
+      "name": "Dubai",
+      "timeMin": 76.9,
+      "speedKmh": 14.75,
+      "distanceKm": 18.91
+    },
+    {
+      "name": "Santiago",
+      "timeMin": 77.8,
+      "speedKmh": 21.33,
+      "distanceKm": 27.65
+    },
+    {
+      "name": "Shanghai",
+      "timeMin": 79.3,
+      "speedKmh": 14.91,
+      "distanceKm": 19.7
+    },
+    {
+      "name": "New York",
+      "timeMin": 79.6,
+      "speedKmh": 14.85,
+      "distanceKm": 19.7
+    },
+    {
+      "name": "Yangon",
+      "timeMin": 80.9,
+      "speedKmh": 14.91,
+      "distanceKm": 20.1
+    },
+    {
+      "name": "Casablanca",
+      "timeMin": 81.2,
+      "speedKmh": 14.88,
+      "distanceKm": 20.14
+    },
+    {
+      "name": "Brasília",
+      "timeMin": 81.3,
+      "speedKmh": 14.92,
+      "distanceKm": 20.22
+    },
+    {
+      "name": "Dar es Salaam",
+      "timeMin": 82.5,
+      "speedKmh": 14.9,
+      "distanceKm": 20.49
+    },
+    {
+      "name": "Nagoya",
+      "timeMin": 83.2,
+      "speedKmh": 32.43,
+      "distanceKm": 44.97
+    },
+    {
+      "name": "Daegu",
+      "timeMin": 83.4,
+      "speedKmh": 15.1,
+      "distanceKm": 20.99
+    },
+    {
+      "name": "Baghdad",
+      "timeMin": 85.1,
+      "speedKmh": 15,
+      "distanceKm": 21.27
+    },
+    {
+      "name": "Delhi",
+      "timeMin": 85.2,
+      "speedKmh": 15.09,
+      "distanceKm": 21.43
+    },
+    {
+      "name": "Hong Kong",
+      "timeMin": 85.2,
+      "speedKmh": 15.06,
+      "distanceKm": 21.39
+    },
+    {
+      "name": "Busan",
+      "timeMin": 86.4,
+      "speedKmh": 15.11,
+      "distanceKm": 21.76
+    },
+    {
+      "name": "Toronto",
+      "timeMin": 87.6,
+      "speedKmh": 33.14,
+      "distanceKm": 48.38
+    },
+    {
+      "name": "Alexandria",
+      "timeMin": 89.9,
+      "speedKmh": 15.14,
+      "distanceKm": 22.68
+    },
+    {
+      "name": "Rio de Janeiro",
+      "timeMin": 90.9,
+      "speedKmh": 15.16,
+      "distanceKm": 22.97
+    },
+    {
+      "name": "Los Angeles",
+      "timeMin": 92.9,
+      "speedKmh": 15.15,
+      "distanceKm": 23.45
+    },
+    {
+      "name": "Bogotá",
+      "timeMin": 93,
+      "speedKmh": 15.24,
+      "distanceKm": 23.62
+    },
+    {
+      "name": "San Francisco",
+      "timeMin": 93,
+      "speedKmh": 14.99,
+      "distanceKm": 23.24
+    },
+    {
+      "name": "Guadalajara",
+      "timeMin": 93.1,
+      "speedKmh": 15.22,
+      "distanceKm": 23.62
+    },
+    {
+      "name": "Taichung",
+      "timeMin": 94.6,
+      "speedKmh": 15.24,
+      "distanceKm": 24.03
+    },
+    {
+      "name": "Luanda",
+      "timeMin": 96.4,
+      "speedKmh": 15.29,
+      "distanceKm": 24.56
+    },
+    {
+      "name": "London",
+      "timeMin": 98.3,
+      "speedKmh": 26.76,
+      "distanceKm": 43.85
+    },
+    {
+      "name": "Bangkok",
+      "timeMin": 100.8,
+      "speedKmh": 15.34,
+      "distanceKm": 25.77
+    },
+    {
+      "name": "Jeddah",
+      "timeMin": 103.3,
+      "speedKmh": 15.33,
+      "distanceKm": 26.4
+    },
+    {
+      "name": "Istanbul",
+      "timeMin": 105.7,
+      "speedKmh": 15.35,
+      "distanceKm": 27.05
+    },
+    {
+      "name": "Lima",
+      "timeMin": 107,
+      "speedKmh": 15.43,
+      "distanceKm": 27.52
+    },
+    {
+      "name": "Johannesburg",
+      "timeMin": 118.3,
+      "speedKmh": 15.68,
+      "distanceKm": 30.91
+    },
+    {
+      "name": "Tehran",
+      "timeMin": 125.5,
+      "speedKmh": 15.7,
+      "distanceKm": 32.83
+    },
+    {
+      "name": "Lagos",
+      "timeMin": 126.1,
+      "speedKmh": 15.68,
+      "distanceKm": 32.95
+    },
+    {
+      "name": "Beijing",
+      "timeMin": 134.6,
+      "speedKmh": 15.77,
+      "distanceKm": 35.37
+    },
+    {
+      "name": "Riyadh",
+      "timeMin": 137.1,
+      "speedKmh": 15.9,
+      "distanceKm": 36.34
+    },
+    {
+      "name": "Cairo",
+      "timeMin": 164.2,
+      "speedKmh": 15.97,
+      "distanceKm": 43.71
+    }
+  ],
+  "normalizedCriteria": [
+    {
+      "name": "Sydney",
+      "affordability": 48.8,
+      "accessibility": 10.2,
+      "adoption": 26.9,
+      "efficiency": 0,
+      "variety": 77.8,
+      "weightedScore": 20.6,
+      "timeMin": 14.8,
+      "speedKmh": 4.18,
+      "distanceKm": 1.03
+    },
+    {
+      "name": "Melbourne",
+      "affordability": 14.6,
+      "accessibility": 37.1,
+      "adoption": 26.8,
+      "efficiency": 22.3,
+      "variety": 66.7,
+      "weightedScore": 29.6,
+      "timeMin": 18.5,
+      "speedKmh": 6.88,
+      "distanceKm": 2.12
+    },
+    {
+      "name": "Buenos Aires",
+      "affordability": 97.6,
+      "accessibility": 28.9,
+      "adoption": 18,
+      "efficiency": 14.4,
+      "variety": 66.7,
+      "weightedScore": 40.6,
+      "timeMin": 6.2,
+      "speedKmh": 5.9,
+      "distanceKm": 0.61
+    },
+    {
+      "name": "Barcelona",
+      "affordability": 39,
+      "accessibility": 20,
+      "adoption": 25.1,
+      "efficiency": 61.5,
+      "variety": 77.8,
+      "weightedScore": 46.2,
+      "timeMin": 33.9,
+      "speedKmh": 11.56,
+      "distanceKm": 6.53
+    },
+    {
+      "name": "Paris",
+      "affordability": 43.9,
+      "accessibility": 21.8,
+      "adoption": 36.6,
+      "efficiency": 59.5,
+      "variety": 100,
+      "weightedScore": 49.1,
+      "timeMin": 25,
+      "speedKmh": 14.72,
+      "distanceKm": 6.14
+    },
+    {
+      "name": "Medellín",
+      "affordability": 87.8,
+      "accessibility": 10.6,
+      "adoption": 23.1,
+      "efficiency": 72.7,
+      "variety": 44.4,
+      "weightedScore": 54.3,
+      "timeMin": 44.4,
+      "speedKmh": 12.91,
+      "distanceKm": 9.55
+    },
+    {
+      "name": "Johannesburg",
+      "affordability": 82.9,
+      "accessibility": 1.8,
+      "adoption": 0,
+      "efficiency": 95.9,
+      "variety": 0,
+      "weightedScore": 55.5,
+      "timeMin": 118.3,
+      "speedKmh": 15.68,
+      "distanceKm": 30.91
+    },
+    {
+      "name": "Montreal",
+      "affordability": 39,
+      "accessibility": 7.5,
+      "adoption": 18.4,
+      "efficiency": 96.9,
+      "variety": 77.8,
+      "weightedScore": 56.6,
+      "timeMin": 64.1,
+      "speedKmh": 31.49,
+      "distanceKm": 33.64
+    },
+    {
+      "name": "Jakarta",
+      "affordability": 100,
+      "accessibility": 16.9,
+      "adoption": 38.4,
+      "efficiency": 63,
+      "variety": 66.7,
+      "weightedScore": 56.9,
+      "timeMin": 32.6,
+      "speedKmh": 11.71,
+      "distanceKm": 6.36
+    },
+    {
+      "name": "Los Angeles",
+      "affordability": 58.5,
+      "accessibility": 11.5,
+      "adoption": 29.6,
+      "efficiency": 91.5,
+      "variety": 66.7,
+      "weightedScore": 58.4,
+      "timeMin": 92.9,
+      "speedKmh": 15.15,
+      "distanceKm": 23.45
+    },
+    {
+      "name": "Casablanca",
+      "affordability": 90.2,
+      "accessibility": 10.4,
+      "adoption": 19.2,
+      "efficiency": 89.3,
+      "variety": 22.2,
+      "weightedScore": 59.1,
+      "timeMin": 81.2,
+      "speedKmh": 14.88,
+      "distanceKm": 20.14
+    },
+    {
+      "name": "New York",
+      "affordability": 34.1,
+      "accessibility": 26.1,
+      "adoption": 6.1,
+      "efficiency": 89,
+      "variety": 88.9,
+      "weightedScore": 59.1,
+      "timeMin": 79.6,
+      "speedKmh": 14.85,
+      "distanceKm": 19.7
+    },
+    {
+      "name": "Chicago",
+      "affordability": 46.3,
+      "accessibility": 32.5,
+      "adoption": 4.4,
+      "efficiency": 84.9,
+      "variety": 77.8,
+      "weightedScore": 60.8,
+      "timeMin": 32.9,
+      "speedKmh": 29.5,
+      "distanceKm": 16.18
+    },
+    {
+      "name": "Madrid",
+      "affordability": 63.4,
+      "accessibility": 23.8,
+      "adoption": 38.2,
+      "efficiency": 83.3,
+      "variety": 77.8,
+      "weightedScore": 60.9,
+      "timeMin": 62.2,
+      "speedKmh": 14.15,
+      "distanceKm": 14.67
+    },
+    {
+      "name": "Dubai",
+      "affordability": 75.6,
+      "accessibility": 15.5,
+      "adoption": 14.5,
+      "efficiency": 88.2,
+      "variety": 77.8,
+      "weightedScore": 62.8,
+      "timeMin": 76.9,
+      "speedKmh": 14.75,
+      "distanceKm": 18.91
+    },
+    {
+      "name": "Singapore",
+      "affordability": 82.9,
+      "accessibility": 19.4,
+      "adoption": 21.2,
+      "efficiency": 81.6,
+      "variety": 77.8,
+      "weightedScore": 62.8,
+      "timeMin": 58.1,
+      "speedKmh": 13.95,
+      "distanceKm": 13.51
+    },
+    {
+      "name": "Hong Kong",
+      "affordability": 85.4,
+      "accessibility": 13.6,
+      "adoption": 23.3,
+      "efficiency": 90.8,
+      "variety": 55.6,
+      "weightedScore": 63,
+      "timeMin": 85.2,
+      "speedKmh": 15.06,
+      "distanceKm": 21.39
+    },
+    {
+      "name": "Istanbul",
+      "affordability": 85.4,
+      "accessibility": 6.4,
+      "adoption": 15.6,
+      "efficiency": 93.2,
+      "variety": 77.8,
+      "weightedScore": 64.1,
+      "timeMin": 105.7,
+      "speedKmh": 15.35,
+      "distanceKm": 27.05
+    },
+    {
+      "name": "Delhi",
+      "affordability": 100,
+      "accessibility": 11.9,
+      "adoption": 16.4,
+      "efficiency": 91.1,
+      "variety": 44.4,
+      "weightedScore": 64.5,
+      "timeMin": 85.2,
+      "speedKmh": 15.09,
+      "distanceKm": 21.43
+    },
+    {
+      "name": "London",
+      "affordability": 48.8,
+      "accessibility": 23.9,
+      "adoption": 26.1,
+      "efficiency": 99,
+      "variety": 88.9,
+      "weightedScore": 65.4,
+      "timeMin": 98.3,
+      "speedKmh": 26.76,
+      "distanceKm": 43.85
+    },
+    {
+      "name": "Rio de Janeiro",
+      "affordability": 82.9,
+      "accessibility": 14.7,
+      "adoption": 28.2,
+      "efficiency": 91.6,
+      "variety": 77.8,
+      "weightedScore": 65.4,
+      "timeMin": 90.9,
+      "speedKmh": 15.16,
+      "distanceKm": 22.97
+    },
+    {
+      "name": "Taipei",
+      "affordability": 95.1,
+      "accessibility": 30.5,
+      "adoption": 51,
+      "efficiency": 71.2,
+      "variety": 88.9,
+      "weightedScore": 65.5,
+      "timeMin": 42.5,
+      "speedKmh": 12.72,
+      "distanceKm": 9.01
+    },
+    {
+      "name": "Mexico City",
+      "affordability": 97.6,
+      "accessibility": 21.7,
+      "adoption": 15.7,
+      "efficiency": 86.2,
+      "variety": 55.6,
+      "weightedScore": 66.1,
+      "timeMin": 69.4,
+      "speedKmh": 14.51,
+      "distanceKm": 16.78
+    },
+    {
+      "name": "Berlin",
+      "affordability": 24.4,
+      "accessibility": 47.5,
+      "adoption": 29.3,
+      "efficiency": 94,
+      "variety": 100,
+      "weightedScore": 66.7,
+      "timeMin": 64.3,
+      "speedKmh": 24.49,
+      "distanceKm": 26.25
+    },
+    {
+      "name": "Santiago",
+      "affordability": 82.9,
+      "accessibility": 27.1,
+      "adoption": 21.6,
+      "efficiency": 94.6,
+      "variety": 55.6,
+      "weightedScore": 68.1,
+      "timeMin": 77.8,
+      "speedKmh": 21.33,
+      "distanceKm": 27.65
+    },
+    {
+      "name": "Cairo",
+      "affordability": 97.6,
+      "accessibility": 8.1,
+      "adoption": 20.7,
+      "efficiency": 98.3,
+      "variety": 77.8,
+      "weightedScore": 69.1,
+      "timeMin": 164.2,
+      "speedKmh": 15.97,
+      "distanceKm": 43.71
+    },
+    {
+      "name": "Toronto",
+      "affordability": 43.9,
+      "accessibility": 39,
+      "adoption": 2,
+      "efficiency": 100,
+      "variety": 88.9,
+      "weightedScore": 69.4,
+      "timeMin": 87.6,
+      "speedKmh": 33.14,
+      "distanceKm": 48.38
+    },
+    {
+      "name": "Beijing",
+      "affordability": 92.7,
+      "accessibility": 20.5,
+      "adoption": 21,
+      "efficiency": 96.7,
+      "variety": 88.9,
+      "weightedScore": 72.3,
+      "timeMin": 134.6,
+      "speedKmh": 15.77,
+      "distanceKm": 35.37
+    }
+  ],
+  "criteriaWeights": {
+    "efficiency": 0.4,
+    "accessibility": 0.3,
+    "affordability": 0.2,
+    "variety": 0.1
+  },
+  "populationDensityCities": [
+    {
+      "name": "Karachi",
+      "populationDensityPerKm2": 9953.8,
+      "population": 13417664,
+      "areaKm2": 1348,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Kinshasa",
+      "populationDensityPerKm2": 9753.5,
+      "population": 5764312,
+      "areaKm2": 591,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Mumbai",
+      "populationDensityPerKm2": 9411.6,
+      "population": 22277275,
+      "areaKm2": 2367,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Singapore",
+      "populationDensityPerKm2": 8795,
+      "population": 5602398,
+      "areaKm2": 637,
+      "adoption": 21.2,
+      "cumulativeCommuteKm": 51895974
+    },
+    {
+      "name": "Hong Kong",
+      "populationDensityPerKm2": 8546.3,
+      "population": 5845663,
+      "areaKm2": 684,
+      "adoption": 23.3,
+      "cumulativeCommuteKm": 57036613
+    },
+    {
+      "name": "Douala",
+      "populationDensityPerKm2": 8339.1,
+      "population": 3002078,
+      "areaKm2": 360,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Kabul",
+      "populationDensityPerKm2": 6512.5,
+      "population": 4604344,
+      "areaKm2": 707,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Dhaka",
+      "populationDensityPerKm2": 6240,
+      "population": 20392157,
+      "areaKm2": 3268,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Yaounde",
+      "populationDensityPerKm2": 6202.7,
+      "population": 3547917,
+      "areaKm2": 572,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Cali",
+      "populationDensityPerKm2": 5859.8,
+      "population": 2390802,
+      "areaKm2": 408,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Istanbul",
+      "populationDensityPerKm2": 5823.5,
+      "population": 14791739,
+      "areaKm2": 2540,
+      "adoption": 15.6,
+      "cumulativeCommuteKm": 38187603
+    },
+    {
+      "name": "Bangalore",
+      "populationDensityPerKm2": 5810.5,
+      "population": 11934852,
+      "areaKm2": 2054,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Jakarta",
+      "populationDensityPerKm2": 5622.4,
+      "population": 29753582,
+      "areaKm2": 5292,
+      "adoption": 38.4,
+      "cumulativeCommuteKm": 94000255
+    },
+    {
+      "name": "Nairobi",
+      "populationDensityPerKm2": 5486,
+      "population": 4712494,
+      "areaKm2": 859,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Cairo",
+      "populationDensityPerKm2": 5402.5,
+      "population": 23490198,
+      "areaKm2": 4348,
+      "adoption": 20.7,
+      "cumulativeCommuteKm": 50672012
+    },
+    {
+      "name": "Giza",
+      "populationDensityPerKm2": 5402.5,
+      "population": 23490198,
+      "areaKm2": 4348,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Lagos",
+      "populationDensityPerKm2": 5401.6,
+      "population": 12337227,
+      "areaKm2": 2284,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Delhi",
+      "populationDensityPerKm2": 5400.7,
+      "population": 30076708,
+      "areaKm2": 5569,
+      "adoption": 16.4,
+      "cumulativeCommuteKm": 40145942
+    },
+    {
+      "name": "Sanaa",
+      "populationDensityPerKm2": 5342.6,
+      "population": 2671299,
+      "areaKm2": 500,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Dar es Salaam",
+      "populationDensityPerKm2": 5340.5,
+      "population": 5644866,
+      "areaKm2": 1057,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Antananarivo",
+      "populationDensityPerKm2": 5326.9,
+      "population": 2386442,
+      "areaKm2": 448,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Salvador",
+      "populationDensityPerKm2": 5220.7,
+      "population": 3252523,
+      "areaKm2": 623,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Medellín",
+      "populationDensityPerKm2": 5217.6,
+      "population": 3610595,
+      "areaKm2": 692,
+      "adoption": 23.1,
+      "cumulativeCommuteKm": 56547028
+    },
+    {
+      "name": "Manila",
+      "populationDensityPerKm2": 5121.7,
+      "population": 24958274,
+      "areaKm2": 4873,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Quezon City",
+      "populationDensityPerKm2": 5121.7,
+      "population": 24958274,
+      "areaKm2": 4873,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Addis Ababa",
+      "populationDensityPerKm2": 4899.8,
+      "population": 3968807,
+      "areaKm2": 810,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Alexandria",
+      "populationDensityPerKm2": 4891.9,
+      "population": 5860478,
+      "areaKm2": 1198,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Bogotá",
+      "populationDensityPerKm2": 4874.3,
+      "population": 9080732,
+      "areaKm2": 1863,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Casablanca",
+      "populationDensityPerKm2": 4784.1,
+      "population": 4377455,
+      "areaKm2": 915,
+      "adoption": 19.2,
+      "cumulativeCommuteKm": 47000127
+    },
+    {
+      "name": "Yangon",
+      "populationDensityPerKm2": 4650.4,
+      "population": 6143162,
+      "areaKm2": 1321,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Shanghai",
+      "populationDensityPerKm2": 4579.8,
+      "population": 26920218,
+      "areaKm2": 5878,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Khartoum",
+      "populationDensityPerKm2": 4570.4,
+      "population": 6229523,
+      "areaKm2": 1363,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Lima",
+      "populationDensityPerKm2": 4559,
+      "population": 9669593,
+      "areaKm2": 2121,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Mexico City",
+      "populationDensityPerKm2": 4431.9,
+      "population": 21410706,
+      "areaKm2": 4831,
+      "adoption": 15.7,
+      "cumulativeCommuteKm": 38432396
+    },
+    {
+      "name": "Abidjan",
+      "populationDensityPerKm2": 4297.4,
+      "population": 4649772,
+      "areaKm2": 1082,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Ho Chi Minh City",
+      "populationDensityPerKm2": 4226.6,
+      "population": 12831945,
+      "areaKm2": 3036,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Bandung",
+      "populationDensityPerKm2": 4027.1,
+      "population": 9310751,
+      "areaKm2": 2312,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Tehran",
+      "populationDensityPerKm2": 4024.2,
+      "population": 13408680,
+      "areaKm2": 3332,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Pyongyang",
+      "populationDensityPerKm2": 3970.5,
+      "population": 2993743,
+      "areaKm2": 754,
+      "adoption": null,
+      "cumulativeCommuteKm": null
+    },
+    {
+      "name": "Taipei",
+      "populationDensityPerKm2": 3869.6,
+      "population": 9530829,
+      "areaKm2": 2463,
+      "adoption": 51,
+      "cumulativeCommuteKm": 124844088
+    }
+  ],
+  "londonDeepDive": {
+    "full": {
+      "avgDistanceKm": 17.86,
+      "avgTimeMin": 40,
+      "avgSpeedKmh": 26.76,
+      "lineCount": 700
+    },
+    "mediumHigh": {
+      "avgDistanceKm": 13.63,
+      "avgTimeMin": 30.6,
+      "avgSpeedKmh": 26.76,
+      "lineCount": 400
+    },
+    "highOnly": {
+      "avgDistanceKm": 13.07,
+      "avgTimeMin": 29.3,
+      "avgSpeedKmh": 26.76,
+      "lineCount": 150
+    },
+    "regionAreaKm2": 1587.2
+  }
+}
