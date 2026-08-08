@@ -63,11 +63,7 @@ with st.sidebar:
         api_key = st.text_input("Gemini API key", type="password", help="Get a free key at aistudio.google.com/apikey")
 
     st.markdown("---")
-    st.caption(
-        "No key stored here is sent anywhere except Google's Gemini API. "
-        "For deployed use, set GEMINI_API_KEY in Streamlit Cloud's app secrets instead of typing it here."
-    )
-
+    
     if st.button("Clear chat"):
         st.session_state.pop("messages", None)
         st.rerun()
